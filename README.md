@@ -33,7 +33,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SHIVAMJALAN04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SHIVAMJALAN04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMJALAN04&layout=compact&theme=tokyonight&hide_border=true"/>
 
