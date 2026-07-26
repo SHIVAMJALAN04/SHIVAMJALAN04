@@ -124,7 +124,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHIVAMJALAN04&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHIVAMJALAN04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -154,7 +154,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SHIVAMJALAN04&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SHIVAMJALAN04&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
