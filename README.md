@@ -179,4 +179,3 @@ If you like my work, don't forget to **⭐ star my repositories**.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=120&section=footer"/>
 
 </div>
-<img src="https://raw.githubusercontent.com/SHIVAMJALAN04/SHIVAMJALAN04/output/snake.svg" alt="Snake animation"/>
