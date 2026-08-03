@@ -164,7 +164,7 @@ B.Tech CSE Student | Python Developer | Aspiring AI & Full Stack Developer | Ope
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
